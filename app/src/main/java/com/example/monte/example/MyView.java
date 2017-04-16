@@ -69,7 +69,7 @@ public class MyView extends SurfaceView implements Runnable{
         }
     }
 
-    public void draw (Canvas canvas){
+    public void onDraw (Canvas canvas){
 
         if (isPressed == false){
             angleSpeed *= 0.91;
