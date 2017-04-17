@@ -1,7 +1,0 @@
-#Sun Apr 16 01:51:30 BST 2017
-base.0=/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b0b7fdd8532d250ad5ebb69028200a8326f2476
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_472afac24d3fe4851613056dd4fa58613567cae2/classes.dex
-base.1=/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_472afac24d3fe4851613056dd4fa58613567cae2
-file.0=/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b0b7fdd8532d250ad5ebb69028200a8326f2476/classes.dex

@@ -64,12 +64,12 @@
         "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",

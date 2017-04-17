@@ -20,6 +20,10 @@
         "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/layout/abc_screen_simple.xml"
     },

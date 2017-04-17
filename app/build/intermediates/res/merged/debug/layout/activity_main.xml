@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/switch_thumb_normal_material_dark"
+    android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
     <com.example.monte.example.CircleView
@@ -15,24 +15,34 @@
         android:layout_height="300dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/connect_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="26dp"
-        android:layout_marginTop="19dp"
         android:background="#00000000"
-        android:text="Search"
+        android:text="Scan"
         android:textColor="#66B2FF"
-        android:textSize="20sp" />
+        android:textSize="25sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="25dp" />
 
     <ImageView
         android:id="@+id/send_color"
-        android:layout_width="150dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:background="#ff0000"
         android:layout_marginStart="7dp"
         android:layout_centerVertical="true"
-        android:layout_toEndOf="@+id/mainView" />
+        android:layout_toEndOf="@+id/mainView"
+        android:layout_marginEnd="5dp"/>
+
+    <NumberPicker
+        android:id="@+id/numberPicker"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@id/send_color"
+        android:layout_marginEnd="5dp" />
+
 </RelativeLayout>

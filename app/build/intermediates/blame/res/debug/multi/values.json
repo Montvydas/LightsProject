@@ -3150,9 +3150,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 115,
+                        "startOffset": 120,
                         "endColumn": 52,
-                        "endOffset": 163
+                        "endOffset": 168
                     }
                 }
             },
@@ -3161,8 +3161,8 @@
                     "startLine": 193,
                     "startColumn": 4,
                     "startOffset": 26772,
-                    "endColumn": 44,
-                    "endOffset": 26812
+                    "endColumn": 49,
+                    "endOffset": 26817
                 },
                 "from": {
                     "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
@@ -3170,8 +3170,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 44,
-                        "endOffset": 56
+                        "endColumn": 49,
+                        "endOffset": 61
                     }
                 }
             },
@@ -3179,18 +3179,18 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 26817,
-                    "endColumn": 52,
-                    "endOffset": 26865
+                    "startOffset": 26822,
+                    "endColumn": 66,
+                    "endOffset": 26884
                 },
                 "from": {
                     "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 62,
-                        "endColumn": 52,
-                        "endOffset": 110
+                        "startOffset": 174,
+                        "endColumn": 66,
+                        "endOffset": 236
                     }
                 }
             },
@@ -3198,9 +3198,237 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 26870,
+                    "startOffset": 26889,
+                    "endColumn": 47,
+                    "endOffset": 26932
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 47,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 26937,
+                    "endColumn": 53,
+                    "endOffset": 26986
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 53,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 26991,
+                    "endColumn": 82,
+                    "endOffset": 27069
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 82,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 27074,
+                    "endColumn": 52,
+                    "endOffset": 27122
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 52,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 27127,
+                    "endColumn": 44,
+                    "endOffset": 27167
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 44,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 27172,
+                    "endColumn": 64,
+                    "endOffset": 27232
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 64,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 27237,
+                    "endColumn": 46,
+                    "endOffset": 27279
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 46,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 27284,
+                    "endColumn": 48,
+                    "endOffset": 27328
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 48,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 27333,
+                    "endColumn": 54,
+                    "endOffset": 27383
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 54,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 27388,
+                    "endColumn": 42,
+                    "endOffset": 27426
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 42,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 27431,
+                    "endColumn": 42,
+                    "endOffset": 27469
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 42,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 27474,
+                    "endColumn": 43,
+                    "endOffset": 27513
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 43,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 27518,
                     "endColumn": 70,
-                    "endOffset": 26936
+                    "endOffset": 27584
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3215,11 +3443,87 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 26941,
+                    "startOffset": 27589,
+                    "endColumn": 57,
+                    "endOffset": 27642
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 57,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 27647,
+                    "endColumn": 73,
+                    "endOffset": 27716
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 73,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 27721,
+                    "endColumn": 57,
+                    "endOffset": 27774
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 57,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 27779,
+                    "endColumn": 59,
+                    "endOffset": 27834
+                },
+                "from": {
+                    "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 59,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 27839,
                     "endColumn": 77,
-                    "endOffset": 27014
+                    "endOffset": 27912
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3234,11 +3538,11 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 27019,
+                    "startOffset": 27917,
                     "endColumn": 89,
-                    "endOffset": 27104
+                    "endOffset": 28002
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3253,11 +3557,11 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 27109,
+                    "startOffset": 28007,
                     "endColumn": 87,
-                    "endOffset": 27192
+                    "endOffset": 28090
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3272,11 +3576,11 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 27197,
+                    "startOffset": 28095,
                     "endColumn": 95,
-                    "endOffset": 27288
+                    "endOffset": 28186
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3291,12 +3595,12 @@
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 27293,
-                    "endLine": 202,
+                    "startOffset": 28191,
+                    "endLine": 218,
                     "endColumn": 12,
-                    "endOffset": 27418
+                    "endOffset": 28316
                 },
                 "from": {
                     "file": "/Users/monte/Desktop/MyLightsProject/Example/app/src/main/res/values/styles.xml",
@@ -3312,12 +3616,12 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 27423,
-                    "endLine": 209,
+                    "startOffset": 28321,
+                    "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 27919
+                    "endOffset": 28817
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3333,11 +3637,11 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 27924,
+                    "startOffset": 28822,
                     "endColumn": 88,
-                    "endOffset": 28008
+                    "endOffset": 28906
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3352,12 +3656,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 28013,
-                    "endLine": 214,
+                    "startOffset": 28911,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 28255
+                    "endOffset": 29153
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3373,12 +3677,12 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 28260,
-                    "endLine": 218,
+                    "startOffset": 29158,
+                    "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 28536
+                    "endOffset": 29434
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3394,12 +3698,12 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 28541,
-                    "endLine": 223,
+                    "startOffset": 29439,
+                    "endLine": 239,
                     "endColumn": 12,
-                    "endOffset": 28821
+                    "endOffset": 29719
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3415,12 +3719,12 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 28826,
-                    "endLine": 229,
+                    "startOffset": 29724,
+                    "endLine": 245,
                     "endColumn": 12,
-                    "endOffset": 29214
+                    "endOffset": 30112
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3436,12 +3740,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 29219,
-                    "endLine": 236,
+                    "startOffset": 30117,
+                    "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 29691
+                    "endOffset": 30589
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3457,12 +3761,12 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 29696,
-                    "endLine": 240,
+                    "startOffset": 30594,
+                    "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 29913
+                    "endOffset": 30811
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3478,12 +3782,12 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 29918,
-                    "endLine": 244,
+                    "startOffset": 30816,
+                    "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 30135
+                    "endOffset": 31033
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3499,12 +3803,12 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 30140,
-                    "endLine": 249,
+                    "startOffset": 31038,
+                    "endLine": 265,
                     "endColumn": 12,
-                    "endOffset": 30403
+                    "endOffset": 31301
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3520,12 +3824,12 @@
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 30408,
-                    "endLine": 253,
+                    "startOffset": 31306,
+                    "endLine": 269,
                     "endColumn": 12,
-                    "endOffset": 30630
+                    "endOffset": 31528
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3541,12 +3845,12 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 30635,
-                    "endLine": 257,
+                    "startOffset": 31533,
+                    "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 30860
+                    "endOffset": 31758
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3562,12 +3866,12 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 30865,
-                    "endLine": 261,
+                    "startOffset": 31763,
+                    "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 31090
+                    "endOffset": 31988
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3583,12 +3887,12 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 31095,
-                    "endLine": 265,
+                    "startOffset": 31993,
+                    "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 31320
+                    "endOffset": 32218
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3604,12 +3908,12 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 31325,
-                    "endLine": 269,
+                    "startOffset": 32223,
+                    "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 31550
+                    "endOffset": 32448
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3625,12 +3929,12 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 31555,
-                    "endLine": 273,
+                    "startOffset": 32453,
+                    "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 31777
+                    "endOffset": 32675
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3646,12 +3950,12 @@
             },
             {
                 "to": {
-                    "startLine": 274,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 31782,
-                    "endLine": 277,
+                    "startOffset": 32680,
+                    "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 32016
+                    "endOffset": 32914
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3667,12 +3971,12 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 32021,
-                    "endLine": 281,
+                    "startOffset": 32919,
+                    "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 32242
+                    "endOffset": 33140
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3688,12 +3992,12 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 32247,
-                    "endLine": 285,
+                    "startOffset": 33145,
+                    "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 32487
+                    "endOffset": 33385
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3709,12 +4013,12 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 32492,
-                    "endLine": 287,
+                    "startOffset": 33390,
+                    "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 32617
+                    "endOffset": 33515
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3730,12 +4034,12 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 32622,
-                    "endLine": 289,
+                    "startOffset": 33520,
+                    "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 32747
+                    "endOffset": 33645
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3751,12 +4055,12 @@
             },
             {
                 "to": {
-                    "startLine": 290,
+                    "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 32752,
-                    "endLine": 293,
+                    "startOffset": 33650,
+                    "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 32977
+                    "endOffset": 33875
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3772,12 +4076,12 @@
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 32982,
-                    "endLine": 297,
+                    "startOffset": 33880,
+                    "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 33225
+                    "endOffset": 34123
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3793,12 +4097,12 @@
             },
             {
                 "to": {
-                    "startLine": 298,
+                    "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 33230,
-                    "endLine": 301,
+                    "startOffset": 34128,
+                    "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 33444
+                    "endOffset": 34342
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3814,12 +4118,12 @@
             },
             {
                 "to": {
-                    "startLine": 302,
+                    "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 33449,
-                    "endLine": 306,
+                    "startOffset": 34347,
+                    "endLine": 322,
                     "endColumn": 12,
-                    "endOffset": 33727
+                    "endOffset": 34625
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3835,12 +4139,12 @@
             },
             {
                 "to": {
-                    "startLine": 307,
+                    "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 33732,
-                    "endLine": 310,
+                    "startOffset": 34630,
+                    "endLine": 326,
                     "endColumn": 12,
-                    "endOffset": 33935
+                    "endOffset": 34833
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3856,12 +4160,12 @@
             },
             {
                 "to": {
-                    "startLine": 311,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 33940,
-                    "endLine": 313,
+                    "startOffset": 34838,
+                    "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 34066
+                    "endOffset": 34964
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3877,12 +4181,12 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 34071,
-                    "endLine": 317,
+                    "startOffset": 34969,
+                    "endLine": 333,
                     "endColumn": 12,
-                    "endOffset": 34293
+                    "endOffset": 35191
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3898,12 +4202,12 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 34298,
-                    "endLine": 321,
+                    "startOffset": 35196,
+                    "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 34539
+                    "endOffset": 35437
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3919,12 +4223,12 @@
             },
             {
                 "to": {
-                    "startLine": 322,
+                    "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 34544,
-                    "endLine": 325,
+                    "startOffset": 35442,
+                    "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 34764
+                    "endOffset": 35662
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3940,12 +4244,12 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 34769,
-                    "endLine": 329,
+                    "startOffset": 35667,
+                    "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 35013
+                    "endOffset": 35911
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3961,12 +4265,12 @@
             },
             {
                 "to": {
-                    "startLine": 330,
+                    "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 35018,
-                    "endLine": 333,
+                    "startOffset": 35916,
+                    "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 35234
+                    "endOffset": 36132
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -3982,12 +4286,12 @@
             },
             {
                 "to": {
-                    "startLine": 334,
+                    "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 35239,
-                    "endLine": 337,
+                    "startOffset": 36137,
+                    "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 35479
+                    "endOffset": 36377
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4003,12 +4307,12 @@
             },
             {
                 "to": {
-                    "startLine": 338,
+                    "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 35484,
-                    "endLine": 342,
+                    "startOffset": 36382,
+                    "endLine": 358,
                     "endColumn": 12,
-                    "endOffset": 35774
+                    "endOffset": 36672
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4024,12 +4328,12 @@
             },
             {
                 "to": {
-                    "startLine": 343,
+                    "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 35779,
-                    "endLine": 345,
+                    "startOffset": 36677,
+                    "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 35996
+                    "endOffset": 36894
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4045,12 +4349,12 @@
             },
             {
                 "to": {
-                    "startLine": 346,
+                    "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 36001,
-                    "endLine": 348,
+                    "startOffset": 36899,
+                    "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 36234
+                    "endOffset": 37132
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4066,12 +4370,12 @@
             },
             {
                 "to": {
-                    "startLine": 349,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 36239,
-                    "endLine": 351,
+                    "startOffset": 37137,
+                    "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 36448
+                    "endOffset": 37346
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4087,12 +4391,12 @@
             },
             {
                 "to": {
-                    "startLine": 352,
+                    "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 36453,
-                    "endLine": 354,
+                    "startOffset": 37351,
+                    "endLine": 370,
                     "endColumn": 12,
-                    "endOffset": 36678
+                    "endOffset": 37576
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4108,12 +4412,12 @@
             },
             {
                 "to": {
-                    "startLine": 355,
+                    "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 36683,
-                    "endLine": 357,
+                    "startOffset": 37581,
+                    "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 36901
+                    "endOffset": 37799
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4129,12 +4433,12 @@
             },
             {
                 "to": {
-                    "startLine": 358,
+                    "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 36906,
-                    "endLine": 360,
+                    "startOffset": 37804,
+                    "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 37116
+                    "endOffset": 38014
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4150,12 +4454,12 @@
             },
             {
                 "to": {
-                    "startLine": 361,
+                    "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 37121,
-                    "endLine": 363,
+                    "startOffset": 38019,
+                    "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 37324
+                    "endOffset": 38222
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4171,12 +4475,12 @@
             },
             {
                 "to": {
-                    "startLine": 364,
+                    "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 37329,
-                    "endLine": 365,
+                    "startOffset": 38227,
+                    "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 37448
+                    "endOffset": 38346
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4192,12 +4496,12 @@
             },
             {
                 "to": {
-                    "startLine": 366,
+                    "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 37453,
-                    "endLine": 367,
+                    "startOffset": 38351,
+                    "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 37572
+                    "endOffset": 38470
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4213,11 +4517,11 @@
             },
             {
                 "to": {
-                    "startLine": 368,
+                    "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 37577,
+                    "startOffset": 38475,
                     "endColumn": 104,
-                    "endOffset": 37677
+                    "endOffset": 38575
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4232,11 +4536,11 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 37682,
+                    "startOffset": 38580,
                     "endColumn": 116,
-                    "endOffset": 37794
+                    "endOffset": 38692
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4251,12 +4555,12 @@
             },
             {
                 "to": {
-                    "startLine": 370,
+                    "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 37799,
-                    "endLine": 372,
+                    "startOffset": 38697,
+                    "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 38008
+                    "endOffset": 38906
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4272,12 +4576,12 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 38013,
-                    "endLine": 374,
+                    "startOffset": 38911,
+                    "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 38154
+                    "endOffset": 39052
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4293,12 +4597,12 @@
             },
             {
                 "to": {
-                    "startLine": 375,
+                    "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 38159,
-                    "endLine": 376,
+                    "startOffset": 39057,
+                    "endLine": 392,
                     "endColumn": 12,
-                    "endOffset": 38294
+                    "endOffset": 39192
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4314,12 +4618,12 @@
             },
             {
                 "to": {
-                    "startLine": 377,
+                    "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 38299,
-                    "endLine": 378,
+                    "startOffset": 39197,
+                    "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 38380
+                    "endOffset": 39278
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4335,12 +4639,12 @@
             },
             {
                 "to": {
-                    "startLine": 379,
+                    "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 38385,
-                    "endLine": 383,
+                    "startOffset": 39283,
+                    "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 38728
+                    "endOffset": 39626
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4356,11 +4660,11 @@
             },
             {
                 "to": {
-                    "startLine": 384,
+                    "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 38733,
+                    "startOffset": 39631,
                     "endColumn": 87,
-                    "endOffset": 38816
+                    "endOffset": 39714
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4375,12 +4679,12 @@
             },
             {
                 "to": {
-                    "startLine": 385,
+                    "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 38821,
-                    "endLine": 388,
+                    "startOffset": 39719,
+                    "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 39046
+                    "endOffset": 39944
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4396,12 +4700,12 @@
             },
             {
                 "to": {
-                    "startLine": 389,
+                    "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 39051,
-                    "endLine": 394,
+                    "startOffset": 39949,
+                    "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 39448
+                    "endOffset": 40346
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4417,12 +4721,12 @@
             },
             {
                 "to": {
-                    "startLine": 395,
+                    "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 39453,
-                    "endLine": 398,
+                    "startOffset": 40351,
+                    "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 39681
+                    "endOffset": 40579
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4438,11 +4742,11 @@
             },
             {
                 "to": {
-                    "startLine": 399,
+                    "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 39686,
+                    "startOffset": 40584,
                     "endColumn": 81,
-                    "endOffset": 39763
+                    "endOffset": 40661
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4457,12 +4761,12 @@
             },
             {
                 "to": {
-                    "startLine": 400,
+                    "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 39768,
-                    "endLine": 401,
+                    "startOffset": 40666,
+                    "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 39861
+                    "endOffset": 40759
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4478,12 +4782,12 @@
             },
             {
                 "to": {
-                    "startLine": 402,
+                    "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 39866,
-                    "endLine": 412,
+                    "startOffset": 40764,
+                    "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 40478
+                    "endOffset": 41376
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4499,11 +4803,11 @@
             },
             {
                 "to": {
-                    "startLine": 413,
+                    "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 40483,
+                    "startOffset": 41381,
                     "endColumn": 99,
-                    "endOffset": 40578
+                    "endOffset": 41476
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4518,12 +4822,12 @@
             },
             {
                 "to": {
-                    "startLine": 414,
+                    "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 40583,
-                    "endLine": 417,
+                    "startOffset": 41481,
+                    "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 40814
+                    "endOffset": 41712
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4539,12 +4843,12 @@
             },
             {
                 "to": {
-                    "startLine": 418,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 40819,
-                    "endLine": 423,
+                    "startOffset": 41717,
+                    "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 41222
+                    "endOffset": 42120
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4560,12 +4864,12 @@
             },
             {
                 "to": {
-                    "startLine": 424,
+                    "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 41227,
-                    "endLine": 427,
+                    "startOffset": 42125,
+                    "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 41461
+                    "endOffset": 42359
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4581,11 +4885,11 @@
             },
             {
                 "to": {
-                    "startLine": 428,
+                    "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 41466,
+                    "startOffset": 42364,
                     "endColumn": 93,
-                    "endOffset": 41555
+                    "endOffset": 42453
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4600,11 +4904,11 @@
             },
             {
                 "to": {
-                    "startLine": 429,
+                    "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 41560,
+                    "startOffset": 42458,
                     "endColumn": 57,
-                    "endOffset": 41613
+                    "endOffset": 42511
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4619,12 +4923,12 @@
             },
             {
                 "to": {
-                    "startLine": 430,
+                    "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 41618,
-                    "endLine": 433,
+                    "startOffset": 42516,
+                    "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 41850
+                    "endOffset": 42748
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4640,12 +4944,12 @@
             },
             {
                 "to": {
-                    "startLine": 434,
+                    "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 41855,
-                    "endLine": 460,
+                    "startOffset": 42753,
+                    "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 43896
+                    "endOffset": 44794
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4661,12 +4965,12 @@
             },
             {
                 "to": {
-                    "startLine": 461,
+                    "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 43901,
-                    "endLine": 464,
+                    "startOffset": 44799,
+                    "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 44138
+                    "endOffset": 45036
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4682,12 +4986,12 @@
             },
             {
                 "to": {
-                    "startLine": 465,
+                    "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 44143,
-                    "endLine": 492,
+                    "startOffset": 45041,
+                    "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 46316
+                    "endOffset": 47214
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4703,12 +5007,12 @@
             },
             {
                 "to": {
-                    "startLine": 493,
+                    "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 46321,
-                    "endLine": 638,
+                    "startOffset": 47219,
+                    "endLine": 654,
                     "endColumn": 12,
-                    "endOffset": 55595
+                    "endOffset": 56493
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4724,12 +5028,12 @@
             },
             {
                 "to": {
-                    "startLine": 639,
+                    "startLine": 655,
                     "startColumn": 4,
-                    "startOffset": 55600,
-                    "endLine": 660,
+                    "startOffset": 56498,
+                    "endLine": 676,
                     "endColumn": 12,
-                    "endOffset": 56862
+                    "endOffset": 57760
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4745,12 +5049,12 @@
             },
             {
                 "to": {
-                    "startLine": 661,
+                    "startLine": 677,
                     "startColumn": 4,
-                    "startOffset": 56867,
-                    "endLine": 806,
+                    "startOffset": 57765,
+                    "endLine": 822,
                     "endColumn": 12,
-                    "endOffset": 66251
+                    "endOffset": 67149
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4766,12 +5070,12 @@
             },
             {
                 "to": {
-                    "startLine": 807,
+                    "startLine": 823,
                     "startColumn": 4,
-                    "startOffset": 66256,
-                    "endLine": 828,
+                    "startOffset": 67154,
+                    "endLine": 844,
                     "endColumn": 12,
-                    "endOffset": 67532
+                    "endOffset": 68430
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4787,12 +5091,12 @@
             },
             {
                 "to": {
-                    "startLine": 829,
+                    "startLine": 845,
                     "startColumn": 4,
-                    "startOffset": 67537,
-                    "endLine": 835,
+                    "startOffset": 68435,
+                    "endLine": 851,
                     "endColumn": 12,
-                    "endOffset": 68068
+                    "endOffset": 68966
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4808,12 +5112,12 @@
             },
             {
                 "to": {
-                    "startLine": 836,
+                    "startLine": 852,
                     "startColumn": 4,
-                    "startOffset": 68073,
-                    "endLine": 840,
+                    "startOffset": 68971,
+                    "endLine": 856,
                     "endColumn": 12,
-                    "endOffset": 68398
+                    "endOffset": 69296
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4829,12 +5133,12 @@
             },
             {
                 "to": {
-                    "startLine": 841,
+                    "startLine": 857,
                     "startColumn": 4,
-                    "startOffset": 68403,
-                    "endLine": 861,
+                    "startOffset": 69301,
+                    "endLine": 877,
                     "endColumn": 12,
-                    "endOffset": 69521
+                    "endOffset": 70419
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4850,12 +5154,12 @@
             },
             {
                 "to": {
-                    "startLine": 862,
+                    "startLine": 878,
                     "startColumn": 4,
-                    "startOffset": 69526,
-                    "endLine": 866,
+                    "startOffset": 70424,
+                    "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 69777
+                    "endOffset": 70675
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4871,12 +5175,12 @@
             },
             {
                 "to": {
-                    "startLine": 867,
+                    "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 69782,
-                    "endLine": 871,
+                    "startOffset": 70680,
+                    "endLine": 887,
                     "endColumn": 12,
-                    "endOffset": 70013
+                    "endOffset": 70911
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4892,12 +5196,12 @@
             },
             {
                 "to": {
-                    "startLine": 872,
+                    "startLine": 888,
                     "startColumn": 4,
-                    "startOffset": 70018,
-                    "endLine": 881,
+                    "startOffset": 70916,
+                    "endLine": 897,
                     "endColumn": 12,
-                    "endOffset": 70560
+                    "endOffset": 71458
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4913,12 +5217,12 @@
             },
             {
                 "to": {
-                    "startLine": 882,
+                    "startLine": 898,
                     "startColumn": 4,
-                    "startOffset": 70565,
-                    "endLine": 890,
+                    "startOffset": 71463,
+                    "endLine": 906,
                     "endColumn": 12,
-                    "endOffset": 71054
+                    "endOffset": 71952
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4934,12 +5238,12 @@
             },
             {
                 "to": {
-                    "startLine": 891,
+                    "startLine": 907,
                     "startColumn": 4,
-                    "startOffset": 71059,
-                    "endLine": 901,
+                    "startOffset": 71957,
+                    "endLine": 917,
                     "endColumn": 12,
-                    "endOffset": 71727
+                    "endOffset": 72625
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4955,12 +5259,12 @@
             },
             {
                 "to": {
-                    "startLine": 902,
+                    "startLine": 918,
                     "startColumn": 4,
-                    "startOffset": 71732,
-                    "endLine": 905,
+                    "startOffset": 72630,
+                    "endLine": 921,
                     "endColumn": 12,
-                    "endOffset": 71942
+                    "endOffset": 72840
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4976,12 +5280,12 @@
             },
             {
                 "to": {
-                    "startLine": 906,
+                    "startLine": 922,
                     "startColumn": 4,
-                    "startOffset": 71947,
-                    "endLine": 912,
+                    "startOffset": 72845,
+                    "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 72470
+                    "endOffset": 73368
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -4997,12 +5301,12 @@
             },
             {
                 "to": {
-                    "startLine": 913,
+                    "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 72475,
-                    "endLine": 920,
+                    "startOffset": 73373,
+                    "endLine": 936,
                     "endColumn": 12,
-                    "endOffset": 73034
+                    "endOffset": 73932
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5018,12 +5322,12 @@
             },
             {
                 "to": {
-                    "startLine": 921,
+                    "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 73039,
-                    "endLine": 927,
+                    "startOffset": 73937,
+                    "endLine": 943,
                     "endColumn": 12,
-                    "endOffset": 73409
+                    "endOffset": 74307
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5039,11 +5343,11 @@
             },
             {
                 "to": {
-                    "startLine": 928,
+                    "startLine": 944,
                     "startColumn": 4,
-                    "startOffset": 73414,
+                    "startOffset": 74312,
                     "endColumn": 117,
-                    "endOffset": 73527
+                    "endOffset": 74425
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5058,12 +5362,12 @@
             },
             {
                 "to": {
-                    "startLine": 929,
+                    "startLine": 945,
                     "startColumn": 4,
-                    "startOffset": 73532,
-                    "endLine": 937,
+                    "startOffset": 74430,
+                    "endLine": 953,
                     "endColumn": 12,
-                    "endOffset": 74065
+                    "endOffset": 74963
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5079,12 +5383,12 @@
             },
             {
                 "to": {
-                    "startLine": 938,
+                    "startLine": 954,
                     "startColumn": 4,
-                    "startOffset": 74070,
-                    "endLine": 940,
+                    "startOffset": 74968,
+                    "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 74222
+                    "endOffset": 75120
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5100,12 +5404,12 @@
             },
             {
                 "to": {
-                    "startLine": 941,
+                    "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 74227,
-                    "endLine": 943,
+                    "startOffset": 75125,
+                    "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 74366
+                    "endOffset": 75264
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5121,12 +5425,12 @@
             },
             {
                 "to": {
-                    "startLine": 944,
+                    "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 74371,
-                    "endLine": 948,
+                    "startOffset": 75269,
+                    "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 74686
+                    "endOffset": 75584
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5142,12 +5446,12 @@
             },
             {
                 "to": {
-                    "startLine": 949,
+                    "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 74691,
-                    "endLine": 952,
+                    "startOffset": 75589,
+                    "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 74856
+                    "endOffset": 75754
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5163,12 +5467,12 @@
             },
             {
                 "to": {
-                    "startLine": 953,
+                    "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 74861,
-                    "endLine": 955,
+                    "startOffset": 75759,
+                    "endLine": 971,
                     "endColumn": 12,
-                    "endOffset": 74997
+                    "endOffset": 75895
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5184,12 +5488,12 @@
             },
             {
                 "to": {
-                    "startLine": 956,
+                    "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 75002,
-                    "endLine": 958,
+                    "startOffset": 75900,
+                    "endLine": 974,
                     "endColumn": 12,
-                    "endOffset": 75126
+                    "endOffset": 76024
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5205,12 +5509,12 @@
             },
             {
                 "to": {
-                    "startLine": 959,
+                    "startLine": 975,
                     "startColumn": 4,
-                    "startOffset": 75131,
-                    "endLine": 962,
+                    "startOffset": 76029,
+                    "endLine": 978,
                     "endColumn": 12,
-                    "endOffset": 75425
+                    "endOffset": 76323
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5226,12 +5530,12 @@
             },
             {
                 "to": {
-                    "startLine": 963,
+                    "startLine": 979,
                     "startColumn": 4,
-                    "startOffset": 75430,
-                    "endLine": 966,
+                    "startOffset": 76328,
+                    "endLine": 982,
                     "endColumn": 12,
-                    "endOffset": 75728
+                    "endOffset": 76626
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5247,12 +5551,12 @@
             },
             {
                 "to": {
-                    "startLine": 967,
+                    "startLine": 983,
                     "startColumn": 4,
-                    "startOffset": 75733,
-                    "endLine": 974,
+                    "startOffset": 76631,
+                    "endLine": 990,
                     "endColumn": 12,
-                    "endOffset": 76287
+                    "endOffset": 77185
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5268,12 +5572,12 @@
             },
             {
                 "to": {
-                    "startLine": 975,
+                    "startLine": 991,
                     "startColumn": 4,
-                    "startOffset": 76292,
-                    "endLine": 979,
+                    "startOffset": 77190,
+                    "endLine": 995,
                     "endColumn": 12,
-                    "endOffset": 76549
+                    "endOffset": 77447
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5289,12 +5593,12 @@
             },
             {
                 "to": {
-                    "startLine": 980,
+                    "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 76554,
-                    "endLine": 986,
+                    "startOffset": 77452,
+                    "endLine": 1002,
                     "endColumn": 12,
-                    "endOffset": 76899
+                    "endOffset": 77797
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5310,12 +5614,12 @@
             },
             {
                 "to": {
-                    "startLine": 987,
+                    "startLine": 1003,
                     "startColumn": 4,
-                    "startOffset": 76904,
-                    "endLine": 992,
+                    "startOffset": 77802,
+                    "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 77252
+                    "endOffset": 78150
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5331,11 +5635,11 @@
             },
             {
                 "to": {
-                    "startLine": 993,
+                    "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 77257,
+                    "startOffset": 78155,
                     "endColumn": 93,
-                    "endOffset": 77346
+                    "endOffset": 78244
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5350,12 +5654,12 @@
             },
             {
                 "to": {
-                    "startLine": 994,
+                    "startLine": 1010,
                     "startColumn": 4,
-                    "startOffset": 77351,
-                    "endLine": 997,
+                    "startOffset": 78249,
+                    "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 77652
+                    "endOffset": 78550
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5371,12 +5675,12 @@
             },
             {
                 "to": {
-                    "startLine": 998,
+                    "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 77657,
-                    "endLine": 1002,
+                    "startOffset": 78555,
+                    "endLine": 1018,
                     "endColumn": 12,
-                    "endOffset": 77914
+                    "endOffset": 78812
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5392,12 +5696,12 @@
             },
             {
                 "to": {
-                    "startLine": 1003,
+                    "startLine": 1019,
                     "startColumn": 4,
-                    "startOffset": 77919,
-                    "endLine": 1004,
+                    "startOffset": 78817,
+                    "endLine": 1020,
                     "endColumn": 12,
-                    "endOffset": 78039
+                    "endOffset": 78937
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5413,12 +5717,12 @@
             },
             {
                 "to": {
-                    "startLine": 1005,
+                    "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 78044,
-                    "endLine": 1006,
+                    "startOffset": 78942,
+                    "endLine": 1022,
                     "endColumn": 12,
-                    "endOffset": 78166
+                    "endOffset": 79064
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5434,12 +5738,12 @@
             },
             {
                 "to": {
-                    "startLine": 1007,
+                    "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 78171,
-                    "endLine": 1009,
+                    "startOffset": 79069,
+                    "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 78405
+                    "endOffset": 79303
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5455,12 +5759,12 @@
             },
             {
                 "to": {
-                    "startLine": 1010,
+                    "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 78410,
-                    "endLine": 1012,
+                    "startOffset": 79308,
+                    "endLine": 1028,
                     "endColumn": 12,
-                    "endOffset": 78616
+                    "endOffset": 79514
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5476,12 +5780,12 @@
             },
             {
                 "to": {
-                    "startLine": 1013,
+                    "startLine": 1029,
                     "startColumn": 4,
-                    "startOffset": 78621,
-                    "endLine": 1014,
+                    "startOffset": 79519,
+                    "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 78735
+                    "endOffset": 79633
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5497,12 +5801,12 @@
             },
             {
                 "to": {
-                    "startLine": 1015,
+                    "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 78740,
-                    "endLine": 1018,
+                    "startOffset": 79638,
+                    "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 78928
+                    "endOffset": 79826
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5518,12 +5822,12 @@
             },
             {
                 "to": {
-                    "startLine": 1019,
+                    "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 78933,
-                    "endLine": 1025,
+                    "startOffset": 79831,
+                    "endLine": 1041,
                     "endColumn": 12,
-                    "endOffset": 79383
+                    "endOffset": 80281
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5539,12 +5843,12 @@
             },
             {
                 "to": {
-                    "startLine": 1026,
+                    "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 79388,
-                    "endLine": 1028,
+                    "startOffset": 80286,
+                    "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 79564
+                    "endOffset": 80462
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5560,12 +5864,12 @@
             },
             {
                 "to": {
-                    "startLine": 1029,
+                    "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 79569,
-                    "endLine": 1031,
+                    "startOffset": 80467,
+                    "endLine": 1047,
                     "endColumn": 12,
-                    "endOffset": 79686
+                    "endOffset": 80584
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5581,12 +5885,12 @@
             },
             {
                 "to": {
-                    "startLine": 1032,
+                    "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 79691,
-                    "endLine": 1035,
+                    "startOffset": 80589,
+                    "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 79945
+                    "endOffset": 80843
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5602,12 +5906,12 @@
             },
             {
                 "to": {
-                    "startLine": 1036,
+                    "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 79950,
-                    "endLine": 1037,
+                    "startOffset": 80848,
+                    "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 80058
+                    "endOffset": 80956
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5623,12 +5927,12 @@
             },
             {
                 "to": {
-                    "startLine": 1038,
+                    "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 80063,
-                    "endLine": 1041,
+                    "startOffset": 80961,
+                    "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 80245
+                    "endOffset": 81143
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5644,12 +5948,12 @@
             },
             {
                 "to": {
-                    "startLine": 1042,
+                    "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 80250,
-                    "endLine": 1043,
+                    "startOffset": 81148,
+                    "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 80347
+                    "endOffset": 81245
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5665,12 +5969,12 @@
             },
             {
                 "to": {
-                    "startLine": 1044,
+                    "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 80352,
-                    "endLine": 1049,
+                    "startOffset": 81250,
+                    "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 80791
+                    "endOffset": 81689
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5686,12 +5990,12 @@
             },
             {
                 "to": {
-                    "startLine": 1050,
+                    "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 80796,
-                    "endLine": 1051,
+                    "startOffset": 81694,
+                    "endLine": 1067,
                     "endColumn": 12,
-                    "endOffset": 80915
+                    "endOffset": 81813
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5707,12 +6011,12 @@
             },
             {
                 "to": {
-                    "startLine": 1052,
+                    "startLine": 1068,
                     "startColumn": 4,
-                    "startOffset": 80920,
-                    "endLine": 1055,
+                    "startOffset": 81818,
+                    "endLine": 1071,
                     "endColumn": 12,
-                    "endOffset": 81200
+                    "endOffset": 82098
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5728,12 +6032,12 @@
             },
             {
                 "to": {
-                    "startLine": 1056,
+                    "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 81205,
-                    "endLine": 1067,
+                    "startOffset": 82103,
+                    "endLine": 1083,
                     "endColumn": 12,
-                    "endOffset": 82087
+                    "endOffset": 82985
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5749,12 +6053,12 @@
             },
             {
                 "to": {
-                    "startLine": 1068,
+                    "startLine": 1084,
                     "startColumn": 4,
-                    "startOffset": 82092,
-                    "endLine": 1073,
+                    "startOffset": 82990,
+                    "endLine": 1089,
                     "endColumn": 12,
-                    "endOffset": 82381
+                    "endOffset": 83279
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5770,12 +6074,12 @@
             },
             {
                 "to": {
-                    "startLine": 1074,
+                    "startLine": 1090,
                     "startColumn": 4,
-                    "startOffset": 82386,
-                    "endLine": 1078,
+                    "startOffset": 83284,
+                    "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 82711
+                    "endOffset": 83609
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5791,12 +6095,12 @@
             },
             {
                 "to": {
-                    "startLine": 1079,
+                    "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 82716,
-                    "endLine": 1093,
+                    "startOffset": 83614,
+                    "endLine": 1109,
                     "endColumn": 12,
-                    "endOffset": 83631
+                    "endOffset": 84529
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5812,12 +6116,12 @@
             },
             {
                 "to": {
-                    "startLine": 1094,
+                    "startLine": 1110,
                     "startColumn": 4,
-                    "startOffset": 83636,
-                    "endLine": 1096,
+                    "startOffset": 84534,
+                    "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 83803
+                    "endOffset": 84701
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5833,12 +6137,12 @@
             },
             {
                 "to": {
-                    "startLine": 1097,
+                    "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 83808,
-                    "endLine": 1101,
+                    "startOffset": 84706,
+                    "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 84139
+                    "endOffset": 85037
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5854,12 +6158,12 @@
             },
             {
                 "to": {
-                    "startLine": 1102,
+                    "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 84144,
-                    "endLine": 1111,
+                    "startOffset": 85042,
+                    "endLine": 1127,
                     "endColumn": 12,
-                    "endOffset": 84805
+                    "endOffset": 85703
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5875,12 +6179,12 @@
             },
             {
                 "to": {
-                    "startLine": 1112,
+                    "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 84810,
-                    "endLine": 1116,
+                    "startOffset": 85708,
+                    "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 85090
+                    "endOffset": 85988
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5896,12 +6200,12 @@
             },
             {
                 "to": {
-                    "startLine": 1117,
+                    "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 85095,
-                    "endLine": 1154,
+                    "startOffset": 85993,
+                    "endLine": 1170,
                     "endColumn": 12,
-                    "endOffset": 87979
+                    "endOffset": 88877
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5917,12 +6221,12 @@
             },
             {
                 "to": {
-                    "startLine": 1155,
+                    "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 87984,
-                    "endLine": 1193,
+                    "startOffset": 88882,
+                    "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 91009
+                    "endOffset": 91907
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5938,12 +6242,12 @@
             },
             {
                 "to": {
-                    "startLine": 1194,
+                    "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 91014,
-                    "endLine": 1203,
+                    "startOffset": 91912,
+                    "endLine": 1219,
                     "endColumn": 12,
-                    "endOffset": 91649
+                    "endOffset": 92547
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5959,12 +6263,12 @@
             },
             {
                 "to": {
-                    "startLine": 1204,
+                    "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 91654,
-                    "endLine": 1212,
+                    "startOffset": 92552,
+                    "endLine": 1228,
                     "endColumn": 12,
-                    "endOffset": 92273
+                    "endOffset": 93171
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -5980,12 +6284,12 @@
             },
             {
                 "to": {
-                    "startLine": 1213,
+                    "startLine": 1229,
                     "startColumn": 4,
-                    "startOffset": 92278,
-                    "endLine": 1214,
+                    "startOffset": 93176,
+                    "endLine": 1230,
                     "endColumn": 12,
-                    "endOffset": 92386
+                    "endOffset": 93284
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6001,12 +6305,12 @@
             },
             {
                 "to": {
-                    "startLine": 1215,
+                    "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 92391,
-                    "endLine": 1218,
+                    "startOffset": 93289,
+                    "endLine": 1234,
                     "endColumn": 12,
-                    "endOffset": 92615
+                    "endOffset": 93513
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6022,12 +6326,12 @@
             },
             {
                 "to": {
-                    "startLine": 1219,
+                    "startLine": 1235,
                     "startColumn": 4,
-                    "startOffset": 92620,
-                    "endLine": 1222,
+                    "startOffset": 93518,
+                    "endLine": 1238,
                     "endColumn": 12,
-                    "endOffset": 92953
+                    "endOffset": 93851
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6043,12 +6347,12 @@
             },
             {
                 "to": {
-                    "startLine": 1223,
+                    "startLine": 1239,
                     "startColumn": 4,
-                    "startOffset": 92958,
-                    "endLine": 1225,
+                    "startOffset": 93856,
+                    "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 93113
+                    "endOffset": 94011
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6064,12 +6368,12 @@
             },
             {
                 "to": {
-                    "startLine": 1226,
+                    "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 93118,
-                    "endLine": 1228,
+                    "startOffset": 94016,
+                    "endLine": 1244,
                     "endColumn": 12,
-                    "endOffset": 93265
+                    "endOffset": 94163
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6085,12 +6389,12 @@
             },
             {
                 "to": {
-                    "startLine": 1229,
+                    "startLine": 1245,
                     "startColumn": 4,
-                    "startOffset": 93270,
-                    "endLine": 1231,
+                    "startOffset": 94168,
+                    "endLine": 1247,
                     "endColumn": 12,
-                    "endOffset": 93436
+                    "endOffset": 94334
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6106,12 +6410,12 @@
             },
             {
                 "to": {
-                    "startLine": 1232,
+                    "startLine": 1248,
                     "startColumn": 4,
-                    "startOffset": 93441,
-                    "endLine": 1234,
+                    "startOffset": 94339,
+                    "endLine": 1250,
                     "endColumn": 12,
-                    "endOffset": 93603
+                    "endOffset": 94501
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6127,12 +6431,12 @@
             },
             {
                 "to": {
-                    "startLine": 1235,
+                    "startLine": 1251,
                     "startColumn": 4,
-                    "startOffset": 93608,
-                    "endLine": 1238,
+                    "startOffset": 94506,
+                    "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 93846
+                    "endOffset": 94744
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6148,12 +6452,12 @@
             },
             {
                 "to": {
-                    "startLine": 1239,
+                    "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 93851,
-                    "endLine": 1241,
+                    "startOffset": 94749,
+                    "endLine": 1257,
                     "endColumn": 12,
-                    "endOffset": 94016
+                    "endOffset": 94914
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6169,12 +6473,12 @@
             },
             {
                 "to": {
-                    "startLine": 1242,
+                    "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 94021,
-                    "endLine": 1244,
+                    "startOffset": 94919,
+                    "endLine": 1260,
                     "endColumn": 12,
-                    "endOffset": 94189
+                    "endOffset": 95087
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6190,12 +6494,12 @@
             },
             {
                 "to": {
-                    "startLine": 1245,
+                    "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 94194,
-                    "endLine": 1247,
+                    "startOffset": 95092,
+                    "endLine": 1263,
                     "endColumn": 12,
-                    "endOffset": 94360
+                    "endOffset": 95258
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6211,12 +6515,12 @@
             },
             {
                 "to": {
-                    "startLine": 1248,
+                    "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 94365,
-                    "endLine": 1251,
+                    "startOffset": 95263,
+                    "endLine": 1267,
                     "endColumn": 12,
-                    "endOffset": 94634
+                    "endOffset": 95532
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6232,12 +6536,12 @@
             },
             {
                 "to": {
-                    "startLine": 1252,
+                    "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 94639,
-                    "endLine": 1254,
+                    "startOffset": 95537,
+                    "endLine": 1270,
                     "endColumn": 12,
-                    "endOffset": 94833
+                    "endOffset": 95731
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6253,12 +6557,12 @@
             },
             {
                 "to": {
-                    "startLine": 1255,
+                    "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 94838,
-                    "endLine": 1257,
+                    "startOffset": 95736,
+                    "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 95080
+                    "endOffset": 95978
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6274,11 +6578,11 @@
             },
             {
                 "to": {
-                    "startLine": 1258,
+                    "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 95085,
+                    "startOffset": 95983,
                     "endColumn": 83,
-                    "endOffset": 95164
+                    "endOffset": 96062
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6293,11 +6597,11 @@
             },
             {
                 "to": {
-                    "startLine": 1259,
+                    "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 95169,
+                    "startOffset": 96067,
                     "endColumn": 95,
-                    "endOffset": 95260
+                    "endOffset": 96158
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6312,11 +6616,11 @@
             },
             {
                 "to": {
-                    "startLine": 1260,
+                    "startLine": 1276,
                     "startColumn": 4,
-                    "startOffset": 95265,
+                    "startOffset": 96163,
                     "endColumn": 95,
-                    "endOffset": 95356
+                    "endOffset": 96254
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6331,11 +6635,11 @@
             },
             {
                 "to": {
-                    "startLine": 1261,
+                    "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 95361,
+                    "startOffset": 96259,
                     "endColumn": 97,
-                    "endOffset": 95454
+                    "endOffset": 96352
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6350,11 +6654,11 @@
             },
             {
                 "to": {
-                    "startLine": 1262,
+                    "startLine": 1278,
                     "startColumn": 4,
-                    "startOffset": 95459,
+                    "startOffset": 96357,
                     "endColumn": 99,
-                    "endOffset": 95554
+                    "endOffset": 96452
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6369,11 +6673,11 @@
             },
             {
                 "to": {
-                    "startLine": 1263,
+                    "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 95559,
+                    "startOffset": 96457,
                     "endColumn": 101,
-                    "endOffset": 95656
+                    "endOffset": 96554
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6388,11 +6692,11 @@
             },
             {
                 "to": {
-                    "startLine": 1264,
+                    "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 95661,
+                    "startOffset": 96559,
                     "endColumn": 101,
-                    "endOffset": 95758
+                    "endOffset": 96656
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6407,11 +6711,11 @@
             },
             {
                 "to": {
-                    "startLine": 1265,
+                    "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 95763,
+                    "startOffset": 96661,
                     "endColumn": 101,
-                    "endOffset": 95860
+                    "endOffset": 96758
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6426,11 +6730,11 @@
             },
             {
                 "to": {
-                    "startLine": 1266,
+                    "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 95865,
+                    "startOffset": 96763,
                     "endColumn": 101,
-                    "endOffset": 95962
+                    "endOffset": 96860
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6445,11 +6749,11 @@
             },
             {
                 "to": {
-                    "startLine": 1267,
+                    "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 95967,
+                    "startOffset": 96865,
                     "endColumn": 101,
-                    "endOffset": 96064
+                    "endOffset": 96962
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6464,11 +6768,11 @@
             },
             {
                 "to": {
-                    "startLine": 1268,
+                    "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 96069,
+                    "startOffset": 96967,
                     "endColumn": 99,
-                    "endOffset": 96164
+                    "endOffset": 97062
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6483,11 +6787,11 @@
             },
             {
                 "to": {
-                    "startLine": 1269,
+                    "startLine": 1285,
                     "startColumn": 4,
-                    "startOffset": 96169,
+                    "startOffset": 97067,
                     "endColumn": 95,
-                    "endOffset": 96260
+                    "endOffset": 97158
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6502,11 +6806,11 @@
             },
             {
                 "to": {
-                    "startLine": 1270,
+                    "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 96265,
+                    "startOffset": 97163,
                     "endColumn": 111,
-                    "endOffset": 96372
+                    "endOffset": 97270
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6521,11 +6825,11 @@
             },
             {
                 "to": {
-                    "startLine": 1271,
+                    "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 96377,
+                    "startOffset": 97275,
                     "endColumn": 128,
-                    "endOffset": 96501
+                    "endOffset": 97399
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6540,11 +6844,11 @@
             },
             {
                 "to": {
-                    "startLine": 1272,
+                    "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 96506,
+                    "startOffset": 97404,
                     "endColumn": 122,
-                    "endOffset": 96624
+                    "endOffset": 97522
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6559,12 +6863,12 @@
             },
             {
                 "to": {
-                    "startLine": 1273,
+                    "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 96629,
-                    "endLine": 1274,
+                    "startOffset": 97527,
+                    "endLine": 1290,
                     "endColumn": 12,
-                    "endOffset": 96778
+                    "endOffset": 97676
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6580,12 +6884,12 @@
             },
             {
                 "to": {
-                    "startLine": 1275,
+                    "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 96783,
-                    "endLine": 1276,
+                    "startOffset": 97681,
+                    "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 96932
+                    "endOffset": 97830
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6601,11 +6905,11 @@
             },
             {
                 "to": {
-                    "startLine": 1277,
+                    "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 96937,
+                    "startOffset": 97835,
                     "endColumn": 97,
-                    "endOffset": 97030
+                    "endOffset": 97928
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6620,11 +6924,11 @@
             },
             {
                 "to": {
-                    "startLine": 1278,
+                    "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 97035,
+                    "startOffset": 97933,
                     "endColumn": 113,
-                    "endOffset": 97144
+                    "endOffset": 98042
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6639,11 +6943,11 @@
             },
             {
                 "to": {
-                    "startLine": 1279,
+                    "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 97149,
+                    "startOffset": 98047,
                     "endColumn": 93,
-                    "endOffset": 97238
+                    "endOffset": 98136
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6658,12 +6962,12 @@
             },
             {
                 "to": {
-                    "startLine": 1280,
+                    "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 97243,
-                    "endLine": 1281,
+                    "startOffset": 98141,
+                    "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 97378
+                    "endOffset": 98276
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6679,12 +6983,12 @@
             },
             {
                 "to": {
-                    "startLine": 1282,
+                    "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 97383,
-                    "endLine": 1283,
+                    "startOffset": 98281,
+                    "endLine": 1299,
                     "endColumn": 12,
-                    "endOffset": 97512
+                    "endOffset": 98410
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6700,11 +7004,11 @@
             },
             {
                 "to": {
-                    "startLine": 1284,
+                    "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 97517,
+                    "startOffset": 98415,
                     "endColumn": 95,
-                    "endOffset": 97608
+                    "endOffset": 98506
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6719,11 +7023,11 @@
             },
             {
                 "to": {
-                    "startLine": 1285,
+                    "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 97613,
+                    "startOffset": 98511,
                     "endColumn": 111,
-                    "endOffset": 97720
+                    "endOffset": 98618
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6738,11 +7042,11 @@
             },
             {
                 "to": {
-                    "startLine": 1286,
+                    "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 97725,
+                    "startOffset": 98623,
                     "endColumn": 99,
-                    "endOffset": 97820
+                    "endOffset": 98718
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6757,11 +7061,11 @@
             },
             {
                 "to": {
-                    "startLine": 1287,
+                    "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 97825,
+                    "startOffset": 98723,
                     "endColumn": 115,
-                    "endOffset": 97936
+                    "endOffset": 98834
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6776,11 +7080,11 @@
             },
             {
                 "to": {
-                    "startLine": 1288,
+                    "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 97941,
+                    "startOffset": 98839,
                     "endColumn": 95,
-                    "endOffset": 98032
+                    "endOffset": 98930
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6795,11 +7099,11 @@
             },
             {
                 "to": {
-                    "startLine": 1289,
+                    "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 98037,
+                    "startOffset": 98935,
                     "endColumn": 111,
-                    "endOffset": 98144
+                    "endOffset": 99042
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6814,12 +7118,12 @@
             },
             {
                 "to": {
-                    "startLine": 1290,
+                    "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 98149,
-                    "endLine": 1291,
+                    "startOffset": 99047,
+                    "endLine": 1307,
                     "endColumn": 12,
-                    "endOffset": 98284
+                    "endOffset": 99182
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6835,12 +7139,12 @@
             },
             {
                 "to": {
-                    "startLine": 1292,
+                    "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 98289,
-                    "endLine": 1293,
+                    "startOffset": 99187,
+                    "endLine": 1309,
                     "endColumn": 12,
-                    "endOffset": 98432
+                    "endOffset": 99330
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6856,12 +7160,12 @@
             },
             {
                 "to": {
-                    "startLine": 1294,
+                    "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 98437,
-                    "endLine": 1295,
+                    "startOffset": 99335,
+                    "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 98596
+                    "endOffset": 99494
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6877,12 +7181,12 @@
             },
             {
                 "to": {
-                    "startLine": 1296,
+                    "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 98601,
-                    "endLine": 1297,
+                    "startOffset": 99499,
+                    "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 98738
+                    "endOffset": 99636
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6898,12 +7202,12 @@
             },
             {
                 "to": {
-                    "startLine": 1298,
+                    "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 98743,
-                    "endLine": 1299,
+                    "startOffset": 99641,
+                    "endLine": 1315,
                     "endColumn": 12,
-                    "endOffset": 98896
+                    "endOffset": 99794
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6919,12 +7223,12 @@
             },
             {
                 "to": {
-                    "startLine": 1300,
+                    "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 98901,
-                    "endLine": 1301,
+                    "startOffset": 99799,
+                    "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 99046
+                    "endOffset": 99944
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6940,11 +7244,11 @@
             },
             {
                 "to": {
-                    "startLine": 1302,
+                    "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99051,
+                    "startOffset": 99949,
                     "endColumn": 140,
-                    "endOffset": 99187
+                    "endOffset": 100085
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6959,12 +7263,12 @@
             },
             {
                 "to": {
-                    "startLine": 1303,
+                    "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99192,
-                    "endLine": 1304,
+                    "startOffset": 100090,
+                    "endLine": 1320,
                     "endColumn": 12,
-                    "endOffset": 99331
+                    "endOffset": 100229
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6980,11 +7284,11 @@
             },
             {
                 "to": {
-                    "startLine": 1305,
+                    "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 99336,
+                    "startOffset": 100234,
                     "endColumn": 134,
-                    "endOffset": 99466
+                    "endOffset": 100364
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -6999,12 +7303,12 @@
             },
             {
                 "to": {
-                    "startLine": 1306,
+                    "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 99471,
-                    "endLine": 1307,
+                    "startOffset": 100369,
+                    "endLine": 1323,
                     "endColumn": 12,
-                    "endOffset": 99602
+                    "endOffset": 100500
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7020,12 +7324,12 @@
             },
             {
                 "to": {
-                    "startLine": 1308,
+                    "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 99607,
-                    "endLine": 1309,
+                    "startOffset": 100505,
+                    "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 99744
+                    "endOffset": 100642
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7041,12 +7345,12 @@
             },
             {
                 "to": {
-                    "startLine": 1310,
+                    "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 99749,
-                    "endLine": 1311,
+                    "startOffset": 100647,
+                    "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 99886
+                    "endOffset": 100784
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7062,11 +7366,11 @@
             },
             {
                 "to": {
-                    "startLine": 1312,
+                    "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 99891,
+                    "startOffset": 100789,
                     "endColumn": 111,
-                    "endOffset": 99998
+                    "endOffset": 100896
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7081,11 +7385,11 @@
             },
             {
                 "to": {
-                    "startLine": 1313,
+                    "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 100003,
+                    "startOffset": 100901,
                     "endColumn": 139,
-                    "endOffset": 100138
+                    "endOffset": 101036
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7100,11 +7404,11 @@
             },
             {
                 "to": {
-                    "startLine": 1314,
+                    "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 100143,
+                    "startOffset": 101041,
                     "endColumn": 67,
-                    "endOffset": 100206
+                    "endOffset": 101104
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7119,11 +7423,11 @@
             },
             {
                 "to": {
-                    "startLine": 1315,
+                    "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100211,
+                    "startOffset": 101109,
                     "endColumn": 72,
-                    "endOffset": 100279
+                    "endOffset": 101177
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7138,11 +7442,11 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 100284,
+                    "startOffset": 101182,
                     "endColumn": 73,
-                    "endOffset": 100353
+                    "endOffset": 101251
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7157,11 +7461,11 @@
             },
             {
                 "to": {
-                    "startLine": 1317,
+                    "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 100358,
+                    "startOffset": 101256,
                     "endColumn": 72,
-                    "endOffset": 100426
+                    "endOffset": 101324
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7176,11 +7480,11 @@
             },
             {
                 "to": {
-                    "startLine": 1318,
+                    "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 100431,
+                    "startOffset": 101329,
                     "endColumn": 73,
-                    "endOffset": 100500
+                    "endOffset": 101398
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7195,12 +7499,12 @@
             },
             {
                 "to": {
-                    "startLine": 1319,
+                    "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 100505,
-                    "endLine": 1320,
+                    "startOffset": 101403,
+                    "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 100646
+                    "endOffset": 101544
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7216,12 +7520,12 @@
             },
             {
                 "to": {
-                    "startLine": 1321,
+                    "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 100651,
-                    "endLine": 1322,
+                    "startOffset": 101549,
+                    "endLine": 1338,
                     "endColumn": 12,
-                    "endOffset": 100790
+                    "endOffset": 101688
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7237,12 +7541,12 @@
             },
             {
                 "to": {
-                    "startLine": 1323,
+                    "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 100795,
-                    "endLine": 1324,
+                    "startOffset": 101693,
+                    "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 100928
+                    "endOffset": 101826
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7258,11 +7562,11 @@
             },
             {
                 "to": {
-                    "startLine": 1325,
+                    "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 100933,
+                    "startOffset": 101831,
                     "endColumn": 65,
-                    "endOffset": 100994
+                    "endOffset": 101892
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7277,11 +7581,11 @@
             },
             {
                 "to": {
-                    "startLine": 1326,
+                    "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 100999,
+                    "startOffset": 101897,
                     "endColumn": 89,
-                    "endOffset": 101084
+                    "endOffset": 101982
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7296,11 +7600,11 @@
             },
             {
                 "to": {
-                    "startLine": 1327,
+                    "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 101089,
+                    "startOffset": 101987,
                     "endColumn": 79,
-                    "endOffset": 101164
+                    "endOffset": 102062
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7315,11 +7619,11 @@
             },
             {
                 "to": {
-                    "startLine": 1328,
+                    "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 101169,
+                    "startOffset": 102067,
                     "endColumn": 91,
-                    "endOffset": 101256
+                    "endOffset": 102154
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7334,11 +7638,11 @@
             },
             {
                 "to": {
-                    "startLine": 1329,
+                    "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 101261,
+                    "startOffset": 102159,
                     "endColumn": 97,
-                    "endOffset": 101354
+                    "endOffset": 102252
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7353,12 +7657,12 @@
             },
             {
                 "to": {
-                    "startLine": 1330,
+                    "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 101359,
-                    "endLine": 1331,
+                    "startOffset": 102257,
+                    "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 101464
+                    "endOffset": 102362
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7374,11 +7678,11 @@
             },
             {
                 "to": {
-                    "startLine": 1332,
+                    "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 101469,
+                    "startOffset": 102367,
                     "endColumn": 77,
-                    "endOffset": 101542
+                    "endOffset": 102440
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7393,11 +7697,11 @@
             },
             {
                 "to": {
-                    "startLine": 1333,
+                    "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 101547,
+                    "startOffset": 102445,
                     "endColumn": 105,
-                    "endOffset": 101648
+                    "endOffset": 102546
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7412,11 +7716,11 @@
             },
             {
                 "to": {
-                    "startLine": 1334,
+                    "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 101653,
+                    "startOffset": 102551,
                     "endColumn": 91,
-                    "endOffset": 101740
+                    "endOffset": 102638
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7431,11 +7735,11 @@
             },
             {
                 "to": {
-                    "startLine": 1335,
+                    "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 101745,
+                    "startOffset": 102643,
                     "endColumn": 103,
-                    "endOffset": 101844
+                    "endOffset": 102742
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7450,11 +7754,11 @@
             },
             {
                 "to": {
-                    "startLine": 1336,
+                    "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 101849,
+                    "startOffset": 102747,
                     "endColumn": 109,
-                    "endOffset": 101954
+                    "endOffset": 102852
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7469,12 +7773,12 @@
             },
             {
                 "to": {
-                    "startLine": 1337,
+                    "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 101959,
-                    "endLine": 1338,
+                    "startOffset": 102857,
+                    "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 102076
+                    "endOffset": 102974
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7490,12 +7794,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 102081,
-                    "endLine": 1342,
+                    "startOffset": 102979,
+                    "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 102239
+                    "endOffset": 103137
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7511,12 +7815,12 @@
             },
             {
                 "to": {
-                    "startLine": 1343,
+                    "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 102244,
-                    "endLine": 1346,
+                    "startOffset": 103142,
+                    "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 102396
+                    "endOffset": 103294
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7532,11 +7836,11 @@
             },
             {
                 "to": {
-                    "startLine": 1347,
+                    "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 102401,
+                    "startOffset": 103299,
                     "endColumn": 79,
-                    "endOffset": 102476
+                    "endOffset": 103374
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7551,11 +7855,11 @@
             },
             {
                 "to": {
-                    "startLine": 1348,
+                    "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 102481,
+                    "startOffset": 103379,
                     "endColumn": 99,
-                    "endOffset": 102576
+                    "endOffset": 103474
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7570,11 +7874,11 @@
             },
             {
                 "to": {
-                    "startLine": 1349,
+                    "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 102581,
+                    "startOffset": 103479,
                     "endColumn": 89,
-                    "endOffset": 102666
+                    "endOffset": 103564
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7589,11 +7893,11 @@
             },
             {
                 "to": {
-                    "startLine": 1350,
+                    "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 102671,
+                    "startOffset": 103569,
                     "endColumn": 109,
-                    "endOffset": 102776
+                    "endOffset": 103674
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7608,11 +7912,11 @@
             },
             {
                 "to": {
-                    "startLine": 1351,
+                    "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 102781,
+                    "startOffset": 103679,
                     "endColumn": 91,
-                    "endOffset": 102868
+                    "endOffset": 103766
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7627,12 +7931,12 @@
             },
             {
                 "to": {
-                    "startLine": 1352,
+                    "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102873,
-                    "endLine": 1353,
+                    "startOffset": 103771,
+                    "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 102968
+                    "endOffset": 103866
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7648,12 +7952,12 @@
             },
             {
                 "to": {
-                    "startLine": 1354,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 102973,
-                    "endLine": 1355,
+                    "startOffset": 103871,
+                    "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 103080
+                    "endOffset": 103978
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7669,12 +7973,12 @@
             },
             {
                 "to": {
-                    "startLine": 1356,
+                    "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 103085,
-                    "endLine": 1357,
+                    "startOffset": 103983,
+                    "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 103194
+                    "endOffset": 104092
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7690,12 +7994,12 @@
             },
             {
                 "to": {
-                    "startLine": 1358,
+                    "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103199,
-                    "endLine": 1359,
+                    "startOffset": 104097,
+                    "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 103310
+                    "endOffset": 104208
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7711,12 +8015,12 @@
             },
             {
                 "to": {
-                    "startLine": 1360,
+                    "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103315,
-                    "endLine": 1361,
+                    "startOffset": 104213,
+                    "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 103426
+                    "endOffset": 104324
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7732,11 +8036,11 @@
             },
             {
                 "to": {
-                    "startLine": 1362,
+                    "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 103431,
+                    "startOffset": 104329,
                     "endColumn": 93,
-                    "endOffset": 103520
+                    "endOffset": 104418
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7751,11 +8055,11 @@
             },
             {
                 "to": {
-                    "startLine": 1363,
+                    "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 103525,
+                    "startOffset": 104423,
                     "endColumn": 113,
-                    "endOffset": 103634
+                    "endOffset": 104532
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7770,11 +8074,11 @@
             },
             {
                 "to": {
-                    "startLine": 1364,
+                    "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 103639,
+                    "startOffset": 104537,
                     "endColumn": 117,
-                    "endOffset": 103752
+                    "endOffset": 104650
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7789,12 +8093,12 @@
             },
             {
                 "to": {
-                    "startLine": 1365,
+                    "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 103757,
-                    "endLine": 1366,
+                    "startOffset": 104655,
+                    "endLine": 1382,
                     "endColumn": 12,
-                    "endOffset": 103854
+                    "endOffset": 104752
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7810,12 +8114,12 @@
             },
             {
                 "to": {
-                    "startLine": 1367,
+                    "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 103859,
-                    "endLine": 1368,
+                    "startOffset": 104757,
+                    "endLine": 1384,
                     "endColumn": 12,
-                    "endOffset": 103974
+                    "endOffset": 104872
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7831,12 +8135,12 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 103979,
-                    "endLine": 1370,
+                    "startOffset": 104877,
+                    "endLine": 1386,
                     "endColumn": 12,
-                    "endOffset": 104096
+                    "endOffset": 104994
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7852,11 +8156,11 @@
             },
             {
                 "to": {
-                    "startLine": 1371,
+                    "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 104101,
+                    "startOffset": 104999,
                     "endColumn": 81,
-                    "endOffset": 104178
+                    "endOffset": 105076
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7871,11 +8175,11 @@
             },
             {
                 "to": {
-                    "startLine": 1372,
+                    "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 104183,
+                    "startOffset": 105081,
                     "endColumn": 103,
-                    "endOffset": 104282
+                    "endOffset": 105180
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7890,11 +8194,11 @@
             },
             {
                 "to": {
-                    "startLine": 1373,
+                    "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 104287,
+                    "startOffset": 105185,
                     "endColumn": 119,
-                    "endOffset": 104402
+                    "endOffset": 105300
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7909,11 +8213,11 @@
             },
             {
                 "to": {
-                    "startLine": 1374,
+                    "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 104407,
+                    "startOffset": 105305,
                     "endColumn": 125,
-                    "endOffset": 104528
+                    "endOffset": 105426
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7928,11 +8232,11 @@
             },
             {
                 "to": {
-                    "startLine": 1375,
+                    "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 104533,
+                    "startOffset": 105431,
                     "endColumn": 93,
-                    "endOffset": 104622
+                    "endOffset": 105520
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7947,11 +8251,11 @@
             },
             {
                 "to": {
-                    "startLine": 1376,
+                    "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 104627,
+                    "startOffset": 105525,
                     "endColumn": 87,
-                    "endOffset": 104710
+                    "endOffset": 105608
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7966,11 +8270,11 @@
             },
             {
                 "to": {
-                    "startLine": 1377,
+                    "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 104715,
+                    "startOffset": 105613,
                     "endColumn": 111,
-                    "endOffset": 104822
+                    "endOffset": 105720
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -7985,11 +8289,11 @@
             },
             {
                 "to": {
-                    "startLine": 1378,
+                    "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 104827,
+                    "startOffset": 105725,
                     "endColumn": 115,
-                    "endOffset": 104938
+                    "endOffset": 105836
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8004,11 +8308,11 @@
             },
             {
                 "to": {
-                    "startLine": 1379,
+                    "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 104943,
+                    "startOffset": 105841,
                     "endColumn": 121,
-                    "endOffset": 105060
+                    "endOffset": 105958
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8023,11 +8327,11 @@
             },
             {
                 "to": {
-                    "startLine": 1380,
+                    "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 105065,
+                    "startOffset": 105963,
                     "endColumn": 111,
-                    "endOffset": 105172
+                    "endOffset": 106070
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8042,12 +8346,12 @@
             },
             {
                 "to": {
-                    "startLine": 1381,
+                    "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 105177,
-                    "endLine": 1383,
+                    "startOffset": 106075,
+                    "endLine": 1399,
                     "endColumn": 12,
-                    "endOffset": 105347
+                    "endOffset": 106245
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8063,11 +8367,11 @@
             },
             {
                 "to": {
-                    "startLine": 1384,
+                    "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 105352,
+                    "startOffset": 106250,
                     "endColumn": 115,
-                    "endOffset": 105463
+                    "endOffset": 106361
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8082,11 +8386,11 @@
             },
             {
                 "to": {
-                    "startLine": 1385,
+                    "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 105468,
+                    "startOffset": 106366,
                     "endColumn": 85,
-                    "endOffset": 105549
+                    "endOffset": 106447
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8101,12 +8405,12 @@
             },
             {
                 "to": {
-                    "startLine": 1386,
+                    "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 105554,
-                    "endLine": 1387,
+                    "startOffset": 106452,
+                    "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 105661
+                    "endOffset": 106559
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8122,12 +8426,12 @@
             },
             {
                 "to": {
-                    "startLine": 1388,
+                    "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 105666,
-                    "endLine": 1389,
+                    "startOffset": 106564,
+                    "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 105785
+                    "endOffset": 106683
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8143,11 +8447,11 @@
             },
             {
                 "to": {
-                    "startLine": 1390,
+                    "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 105790,
+                    "startOffset": 106688,
                     "endColumn": 66,
-                    "endOffset": 105852
+                    "endOffset": 106750
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8162,12 +8466,12 @@
             },
             {
                 "to": {
-                    "startLine": 1391,
+                    "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 105857,
-                    "endLine": 1392,
+                    "startOffset": 106755,
+                    "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 105978
+                    "endOffset": 106876
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8183,11 +8487,11 @@
             },
             {
                 "to": {
-                    "startLine": 1393,
+                    "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 105983,
+                    "startOffset": 106881,
                     "endColumn": 67,
-                    "endOffset": 106046
+                    "endOffset": 106944
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8202,12 +8506,12 @@
             },
             {
                 "to": {
-                    "startLine": 1394,
+                    "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 106051,
-                    "endLine": 1395,
+                    "startOffset": 106949,
+                    "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 106174
+                    "endOffset": 107072
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8223,12 +8527,12 @@
             },
             {
                 "to": {
-                    "startLine": 1396,
+                    "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 106179,
-                    "endLine": 1397,
+                    "startOffset": 107077,
+                    "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 106318
+                    "endOffset": 107216
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8244,12 +8548,12 @@
             },
             {
                 "to": {
-                    "startLine": 1398,
+                    "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 106323,
-                    "endLine": 1399,
+                    "startOffset": 107221,
+                    "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 106446
+                    "endOffset": 107344
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8265,11 +8569,11 @@
             },
             {
                 "to": {
-                    "startLine": 1400,
+                    "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 106451,
+                    "startOffset": 107349,
                     "endColumn": 68,
-                    "endOffset": 106515
+                    "endOffset": 107413
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8284,11 +8588,11 @@
             },
             {
                 "to": {
-                    "startLine": 1401,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 106520,
+                    "startOffset": 107418,
                     "endColumn": 94,
-                    "endOffset": 106610
+                    "endOffset": 107508
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8303,11 +8607,11 @@
             },
             {
                 "to": {
-                    "startLine": 1402,
+                    "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 106615,
+                    "startOffset": 107513,
                     "endColumn": 114,
-                    "endOffset": 106725
+                    "endOffset": 107623
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8322,11 +8626,11 @@
             },
             {
                 "to": {
-                    "startLine": 1403,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 106730,
+                    "startOffset": 107628,
                     "endColumn": 112,
-                    "endOffset": 106838
+                    "endOffset": 107736
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8341,11 +8645,11 @@
             },
             {
                 "to": {
-                    "startLine": 1404,
+                    "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 106843,
+                    "startOffset": 107741,
                     "endColumn": 98,
-                    "endOffset": 106937
+                    "endOffset": 107835
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8360,11 +8664,11 @@
             },
             {
                 "to": {
-                    "startLine": 1405,
+                    "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 106942,
+                    "startOffset": 107840,
                     "endColumn": 108,
-                    "endOffset": 107046
+                    "endOffset": 107944
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8379,11 +8683,11 @@
             },
             {
                 "to": {
-                    "startLine": 1406,
+                    "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 107051,
+                    "startOffset": 107949,
                     "endColumn": 110,
-                    "endOffset": 107157
+                    "endOffset": 108055
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8398,11 +8702,11 @@
             },
             {
                 "to": {
-                    "startLine": 1407,
+                    "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 107162,
+                    "startOffset": 108060,
                     "endColumn": 110,
-                    "endOffset": 107268
+                    "endOffset": 108166
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8417,11 +8721,11 @@
             },
             {
                 "to": {
-                    "startLine": 1408,
+                    "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 107273,
+                    "startOffset": 108171,
                     "endColumn": 100,
-                    "endOffset": 107369
+                    "endOffset": 108267
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8436,11 +8740,11 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 107374,
+                    "startOffset": 108272,
                     "endColumn": 104,
-                    "endOffset": 107474
+                    "endOffset": 108372
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8455,12 +8759,12 @@
             },
             {
                 "to": {
-                    "startLine": 1410,
+                    "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 107479,
-                    "endLine": 1411,
+                    "startOffset": 108377,
+                    "endLine": 1427,
                     "endColumn": 12,
-                    "endOffset": 107586
+                    "endOffset": 108484
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8476,12 +8780,12 @@
             },
             {
                 "to": {
-                    "startLine": 1412,
+                    "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 107591,
-                    "endLine": 1413,
+                    "startOffset": 108489,
+                    "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 107716
+                    "endOffset": 108614
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8497,11 +8801,11 @@
             },
             {
                 "to": {
-                    "startLine": 1414,
+                    "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 107721,
+                    "startOffset": 108619,
                     "endColumn": 90,
-                    "endOffset": 107807
+                    "endOffset": 108705
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8516,11 +8820,11 @@
             },
             {
                 "to": {
-                    "startLine": 1415,
+                    "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 107812,
+                    "startOffset": 108710,
                     "endColumn": 122,
-                    "endOffset": 107930
+                    "endOffset": 108828
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8535,12 +8839,12 @@
             },
             {
                 "to": {
-                    "startLine": 1416,
+                    "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 107935,
-                    "endLine": 1417,
+                    "startOffset": 108833,
+                    "endLine": 1433,
                     "endColumn": 12,
-                    "endOffset": 108042
+                    "endOffset": 108940
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8556,11 +8860,11 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 108047,
+                    "startOffset": 108945,
                     "endColumn": 85,
-                    "endOffset": 108128
+                    "endOffset": 109026
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8575,11 +8879,11 @@
             },
             {
                 "to": {
-                    "startLine": 1419,
+                    "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 108133,
+                    "startOffset": 109031,
                     "endColumn": 103,
-                    "endOffset": 108232
+                    "endOffset": 109130
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8594,12 +8898,12 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 108237,
-                    "endLine": 1421,
+                    "startOffset": 109135,
+                    "endLine": 1437,
                     "endColumn": 12,
-                    "endOffset": 108340
+                    "endOffset": 109238
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8615,12 +8919,12 @@
             },
             {
                 "to": {
-                    "startLine": 1422,
+                    "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 108345,
-                    "endLine": 1423,
+                    "startOffset": 109243,
+                    "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 108440
+                    "endOffset": 109338
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8636,12 +8940,12 @@
             },
             {
                 "to": {
-                    "startLine": 1424,
+                    "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 108445,
-                    "endLine": 1425,
+                    "startOffset": 109343,
+                    "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 108558
+                    "endOffset": 109456
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8657,12 +8961,12 @@
             },
             {
                 "to": {
-                    "startLine": 1426,
+                    "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 108563,
-                    "endLine": 1427,
+                    "startOffset": 109461,
+                    "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 108662
+                    "endOffset": 109560
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8678,12 +8982,12 @@
             },
             {
                 "to": {
-                    "startLine": 1428,
+                    "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 108667,
-                    "endLine": 1429,
+                    "startOffset": 109565,
+                    "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 108766
+                    "endOffset": 109664
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8699,12 +9003,12 @@
             },
             {
                 "to": {
-                    "startLine": 1430,
+                    "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 108771,
-                    "endLine": 1431,
+                    "startOffset": 109669,
+                    "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 108892
+                    "endOffset": 109790
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8720,11 +9024,11 @@
             },
             {
                 "to": {
-                    "startLine": 1432,
+                    "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 108897,
+                    "startOffset": 109795,
                     "endColumn": 87,
-                    "endOffset": 108980
+                    "endOffset": 109878
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8739,11 +9043,11 @@
             },
             {
                 "to": {
-                    "startLine": 1433,
+                    "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 108985,
+                    "startOffset": 109883,
                     "endColumn": 89,
-                    "endOffset": 109070
+                    "endOffset": 109968
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8758,11 +9062,11 @@
             },
             {
                 "to": {
-                    "startLine": 1434,
+                    "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 109075,
+                    "startOffset": 109973,
                     "endColumn": 109,
-                    "endOffset": 109180
+                    "endOffset": 110078
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8777,11 +9081,11 @@
             },
             {
                 "to": {
-                    "startLine": 1435,
+                    "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 109185,
+                    "startOffset": 110083,
                     "endColumn": 83,
-                    "endOffset": 109264
+                    "endOffset": 110162
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8796,11 +9100,11 @@
             },
             {
                 "to": {
-                    "startLine": 1436,
+                    "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 109269,
+                    "startOffset": 110167,
                     "endColumn": 53,
-                    "endOffset": 109318
+                    "endOffset": 110216
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8815,11 +9119,11 @@
             },
             {
                 "to": {
-                    "startLine": 1437,
+                    "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 109323,
+                    "startOffset": 110221,
                     "endColumn": 121,
-                    "endOffset": 109440
+                    "endOffset": 110338
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8834,11 +9138,11 @@
             },
             {
                 "to": {
-                    "startLine": 1438,
+                    "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 109445,
+                    "startOffset": 110343,
                     "endColumn": 105,
-                    "endOffset": 109546
+                    "endOffset": 110444
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8853,11 +9157,11 @@
             },
             {
                 "to": {
-                    "startLine": 1439,
+                    "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 109551,
+                    "startOffset": 110449,
                     "endColumn": 109,
-                    "endOffset": 109656
+                    "endOffset": 110554
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8872,11 +9176,11 @@
             },
             {
                 "to": {
-                    "startLine": 1440,
+                    "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 109661,
+                    "startOffset": 110559,
                     "endColumn": 83,
-                    "endOffset": 109740
+                    "endOffset": 110638
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
@@ -8891,11 +9195,11 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 109745,
+                    "startOffset": 110643,
                     "endColumn": 125,
-                    "endOffset": 109866
+                    "endOffset": 110764
                 },
                 "from": {
                     "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values/values.xml",
