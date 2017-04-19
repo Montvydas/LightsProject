@@ -2,13 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/monte/.android/build-cache/908fbfc48b09d9e4f8e8aa33849ab84b44292c1d/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/pre-dexed/debug/classes_3f3a47a11695a149394bebbc23b8e78228e5afc0.jar" />
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a69dc92e5a631de825ea5a62edce54239b48b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/monte/.android/build-cache/ad4caeec2381220d655bc3ea22b9432b08858d17/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_8bc7432288944acabd971de07937ab8f81473b07/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -20,22 +29,31 @@
         <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b0b7fdd8532d250ad5ebb69028200a8326f2476/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/monte/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/monte/.android/build-cache/785009f0e9123a2406839e209bfb8923857dfeac/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_b1599c664acad74720d2adcda4ed2550c9e382a1.jar" />
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0174e5fc922e9267d9992cd79daa00c9e2477e2d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/monte/.android/build-cache/9fc916de2ff4cdeca1d78b62a333554fc3e3e30e/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/monte/.android/build-cache/ad4caeec2381220d655bc3ea22b9432b08858d17/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/pre-dexed/debug/classes_2ac4f96e84a21b3fc20f5ac33a6f500872658f11.jar" />
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26b845263a4a4992342559c651a8d51cd642d557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/monte/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e4c1164f59d53ca678af8fb8b5005a2c268c27c9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -43,17 +61,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="02ad7a8587b8fccace423eeac81cb8a73f34feac">
+        sha1="b6b7b272864f77a991aad9f5784a0ee10a718cc6">
         <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_472afac24d3fe4851613056dd4fa58613567cae2/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/monte/.android/build-cache/9fc916de2ff4cdeca1d78b62a333554fc3e3e30e/output/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_1d5c84b3761df5a9dbc31040cf92e4c9f0246d6b.jar" />
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_446ed526e2040bf716c42bf5c913cb87970bfbb8/classes.dex" />
     </item>
 
 </items>

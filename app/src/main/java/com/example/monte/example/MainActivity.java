@@ -1,5 +1,6 @@
 package com.example.monte.example;
 
+import android.animation.ObjectAnimator;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -11,10 +12,14 @@ import android.util.TypedValue;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.view.animation.DecelerateInterpolator;
 import android.widget.Button;
+import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.NumberPicker;
+import android.widget.ProgressBar;
+import android.widget.Switch;
 
 import java.lang.reflect.Field;
 import java.nio.ByteBuffer;
@@ -24,11 +29,14 @@ import bluetooth.BlunoLibrary;
 
 import static android.graphics.Color.*;
 
-public class MainActivity extends BlunoLibrary implements CircleView.CircleViewListener, View.OnClickListener{
+public class MainActivity extends BlunoLibrary implements CircleView.CircleViewListener, View.OnClickListener,
+        CompoundButton.OnCheckedChangeListener, CircularSeekBar.OnCircularSeekBarChangeListener{
     CircleView circleView;
     ImageView sendColor;
     Button buttonScan;
-
+    Switch turnOnSwitch;
+    CircularSeekBar brigtnessSeekBar;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,6 +48,12 @@ public class MainActivity extends BlunoLibrary implements CircleView.CircleViewL
         circleView.setupCircle(CircleView.rainbowColors);
         circleView.setHorizontalOrientation(0.0f);
         circleView.setCircleViewListener(this);
+
+        turnOnSwitch = (Switch) findViewById(R.id.turn_on_switch);
+        turnOnSwitch.setOnCheckedChangeListener(this);
+
+        brigtnessSeekBar = (CircularSeekBar) findViewById(R.id.brightness_seek_bar);
+        brigtnessSeekBar.setOnSeekBarChangeListener(this);
 
         buttonScan = (Button) findViewById(R.id.connect_button); 
         buttonScan.setOnClickListener(this);
@@ -178,7 +192,7 @@ public class MainActivity extends BlunoLibrary implements CircleView.CircleViewL
 
     @Override
     public void onSerialReceived(String data) {
-//        Log.e("received", data);
+        Log.e("received", data);
     }
 
     @Override
@@ -241,6 +255,37 @@ public class MainActivity extends BlunoLibrary implements CircleView.CircleViewL
             }
         }
         return false;
+    }
+
+    @Override
+    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+        if (!isConnected)
+            return;
+
+        if (isChecked){
+            serialSend("s"+1);
+        } else {
+            serialSend("s"+0);
+        }
+    }
+
+    @Override
+    public void onProgressChanged(CircularSeekBar circularSeekBar, int progress, boolean fromUser) {
+        Log.e("progress", progress+"");
+        if (!isConnected)
+            return;
+
+        serialSend("b"+progress);
+    }
+
+    @Override
+    public void onStopTrackingTouch(CircularSeekBar seekBar) {
+
+    }
+
+    @Override
+    public void onStartTrackingTouch(CircularSeekBar seekBar) {
+
     }
 }
 

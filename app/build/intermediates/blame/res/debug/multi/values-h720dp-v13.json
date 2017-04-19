@@ -11,13 +11,13 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/values-h720dp/values-h720dp.xml",
+                    "file": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 55,
                         "endColumn": 66,
-                        "endOffset": 356
+                        "endOffset": 117
                     }
                 }
             }

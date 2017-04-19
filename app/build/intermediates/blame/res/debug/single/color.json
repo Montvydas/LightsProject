@@ -1,38 +1,42 @@
 [
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_secondary_text_material_light.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/switch_thumb_material_dark.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_primary_text_material_light.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_search_url_text.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_primary_text_material_dark.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/ksw_md_back_color.xml",
+        "source": "/Users/monte/.android/build-cache/b0612d93346c2deefd8ef02ba1e7f99b7fc13737/output/res/color/ksw_md_back_color.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/switch_thumb_material_light.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_secondary_text_material_dark.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/monte/Desktop/MyLightsProject/Example/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "/Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/res/color/abc_primary_text_disable_only_material_light.xml"
     }
 ]

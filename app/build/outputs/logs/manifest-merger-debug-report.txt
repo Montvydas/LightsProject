@@ -37,8 +37,10 @@ ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidMani
 		ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml:14:22-76
 application
 ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml:17:5-33:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] /Users/monte/.android/build-cache/9fc916de2ff4cdeca1d78b62a333554fc3e3e30e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/monte/.android/build-cache/908fbfc48b09d9e4f8e8aa33849ab84b44292c1d/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/monte/.android/build-cache/785009f0e9123a2406839e209bfb8923857dfeac/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/monte/.android/build-cache/ad4caeec2381220d655bc3ea22b9432b08858d17/output/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml:21:9-41
 	android:hardwareAccelerated
@@ -73,8 +75,12 @@ ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidMani
 		ADDED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml:32:18-61
 uses-sdk
 INJECTED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/monte/.android/build-cache/73d8be893b67ffb0dda15cb9353fb4e903333db4/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] /Users/monte/.android/build-cache/9fc916de2ff4cdeca1d78b62a333554fc3e3e30e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/monte/.android/build-cache/908fbfc48b09d9e4f8e8aa33849ab84b44292c1d/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/monte/.android/build-cache/785009f0e9123a2406839e209bfb8923857dfeac/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/monte/.android/build-cache/ad4caeec2381220d655bc3ea22b9432b08858d17/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/monte/.android/build-cache/72d296e309bc8a391cc8f4af969d00bbcbbfedf8/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/monte/Desktop/MyLightsProject/Example/app/src/main/AndroidManifest.xml
